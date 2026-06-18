@@ -1,3 +1,4 @@
 # diagrama-der-mr
-**Author**
+
+# Author
 Edgar Corzo, Luis Guerrero, Jefferson Caceres
